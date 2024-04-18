@@ -1,18 +1,18 @@
-### I`m a full stack web developer based in Barcelona, Spain.
+# I`m a full stack web developer based in Barcelona, Spain.
 
-#### Here are some of the tools that I use: 
+# Here are some of the tools that I use: 
 
-#### Frontend:
+## Frontend:
 
-##### Languages:
+### Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-##### Libraries & Frameworks:
+### Libraries & Frameworks:
 
 [![My Skills](https://skillicons.dev/icons?i=react,angular,vue,bootstrap,redux,vite)](https://skillicons.dev)
 
-#### Backend:
+## Backend:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,vue,bootstrap,figma,firebase,heroku,jest,jquery,mongodb,mysql,nextjs,nodejs,npm,postman,redux,regex,sass,sentry,solidity,tailwind,threejs,ubuntu,vercel,vite,vscode,yarn)](https://skillicons.dev)
 
