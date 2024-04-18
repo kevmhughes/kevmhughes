@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,figma,firebase,heroku,js,jest,jquery,mongodb,mysql,nextjs,nodejs,npm,ps,postman,react,redux,regex,sass,sentry,solidity,svg,tailwind,threejs,ubuntu,vercel,vite,vscode,vue,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,figma,firebase,heroku,js,jest,jquery,mongodb,mysql,nextjs,nodejs,npm,postman,react,redux,regex,sass,sentry,solidity,svg,tailwind,threejs,ubuntu,vercel,vite,vscode,vue,yarn)](https://skillicons.dev)
