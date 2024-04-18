@@ -1,4 +1,4 @@
-# Full stack web developer based in Barcelona, Spain.
+# **Hey!** I`m a full stack web developer based in Barcelona, Spain.
 
 ## Tools that I use:
 
