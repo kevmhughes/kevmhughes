@@ -7,7 +7,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-## Libraries & Frameworks:
+### Libraries & Frameworks:
 
 [![My Skills](https://skillicons.dev/icons?i=react,angular,vue,bootstrap,redux,vite)](https://skillicons.dev)
 
