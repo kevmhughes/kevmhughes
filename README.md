@@ -2,7 +2,7 @@
 
 ## Here are some of the tools that I use: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,vue,tailwind,bootstrap,redux,vite,next,solidity,sentry,heroku,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,node,tailwind,bootstrap,redux,vite,next,solidity,sentry)](https://skillicons.dev)
 
 
 
