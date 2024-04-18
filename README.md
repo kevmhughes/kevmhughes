@@ -2,18 +2,7 @@
 
 # Here are some of the tools that I use: 
 
-## Frontend:
 
-### Languages:
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
-### Libraries & Frameworks:
-
-[![My Skills](https://skillicons.dev/icons?i=react,angular,vue,tailwind,bootstrap,redux,vite,next.js)](https://skillicons.dev)
-
-## Backend:
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,heroku,mongodb,mysql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,vue,tailwind,bootstrap,redux,vite,next.js,solidity,sentry,firebase,heroku,mongodb,mysql,postman)](https://skillicons.dev)
 
 
