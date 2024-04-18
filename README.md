@@ -10,10 +10,10 @@
 
 ### Libraries & Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular,vue,bootstrap,redux,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,vue,tailwind,bootstrap,redux,vite,next.js)](https://skillicons.dev)
 
 ## Backend:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,vue,bootstrap,figma,firebase,heroku,jest,jquery,mongodb,mysql,nextjs,nodejs,npm,postman,redux,regex,sass,sentry,solidity,tailwind,threejs,ubuntu,vercel,vite,vscode,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,heroku,mongodb,mysql,postman,redux)](https://skillicons.dev)
 
 
