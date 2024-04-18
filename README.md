@@ -4,6 +4,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,vue,tailwind,bootstrap,redux,vite,next,solidity,sentry,heroku,mongodb)](https://skillicons.dev)
 
-### Check out some of my pinned projects below!
 
 
