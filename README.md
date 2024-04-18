@@ -5,7 +5,11 @@
 ## Frontend:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,vue,bootstrap,redux,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+## Libraries & Frameworks:
+
+[![My Skills](https://skillicons.dev/icons?i=react,angular,vue,bootstrap,redux,vite)](https://skillicons.dev)
 
 ## Backend:
 
