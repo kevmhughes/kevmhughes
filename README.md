@@ -14,6 +14,6 @@
 
 ## Backend:
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,heroku,mongodb,mysql,postman,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,heroku,mongodb,mysql,postman)](https://skillicons.dev)
 
 
