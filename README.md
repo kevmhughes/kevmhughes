@@ -1,6 +1,7 @@
 # I`m a full stack web developer based in Barcelona, Spain.
 
-<div><h1>  I`m a full stack web developer based in Barcelona, Spain.</h1>
+<div>
+  <h1 style="text-decoration: none">I`m a full stack web developer based in Barcelona, Spain.</h1>
 </div>
 
 ## Here are some of the tools that I use: 
