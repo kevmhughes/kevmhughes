@@ -1,3 +1,7 @@
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+
+
+
 # I`m a full stack web developer based in Barcelona, Spain.
 
 <div>
